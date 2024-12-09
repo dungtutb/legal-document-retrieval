@@ -1,0 +1,12 @@
+env/
+data/
+__pycache__
+.vscode
+.env
+
+train/processed
+train/processed_large
+*.predict.txt
+*.bin
+predict*
+legal/

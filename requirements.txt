@@ -1,0 +1,12 @@
+transformers==4.24.0
+sentence-transformers==1.2.1
+git+https://github.com/witiko/gensim.git@feature/bm25
+numpy
+pandas
+nltk
+cdlib
+scipy<1.13
+pyvi
+pandarallel
+ipywidgets
+rank-bm25
